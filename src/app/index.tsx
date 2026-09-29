@@ -144,11 +144,11 @@ export default function Page() {
           </View>
 
           <Text style={styles.loginTitle}>Controle de Validades FEFO</Text>
-          <View className="flex-1 justify-center items-center">
+          {/* <View className="flex-1 justify-center items-center">
             <Text className="text-white text-lg font-bold">
               Terminal do operador para consulta de lotes e estoques
             </Text>
-          </View>
+          </View> */}
 
           {/* Form */}
           <View style={styles.inputGroup}>
